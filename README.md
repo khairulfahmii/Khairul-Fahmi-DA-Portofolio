@@ -1,6 +1,6 @@
-# Data Analytics Portfolio by Dharma Wangsa
-Hi! My name is Achmad Amri Dharma Wangsa, just called me Dharma Wangsa.
-Here is my Portfolio as Data Analyst, please check it out!
+# Data Analytics Portfolio by Khairul Fahmi
+Hi! My name is Khairul Fahmi, just called me Fahmi.
+Here is my Data Analyst Portfolio
 
 ## Spreadsheet/ Excel Skill sets:
 * Data Cleaning;
@@ -10,10 +10,9 @@ Here is my Portfolio as Data Analyst, please check it out!
 * Descriptive Statistics;
 * Data Visualization;
 * Gathering Insights;
-* A/B Testing
 
 ### Deck :
-[Data Cleaning and Processing in Spreadsheet](https://drive.google.com/file/d/1pL3b73PEav3U2CWDvTMt3FXDERvllViS/view?usp=sharing)
+[Data Cleaning and Processing in Spreadsheet](https://docs.google.com/presentation/d/1H4ffVTQ-4i1ozKPmFjrOLlhj2jXNG_2pC0mrPZqBrSc/edit?usp=share_link)
 
 ## SQL Skill sets:
 * Standard Query Syntax;  
@@ -24,11 +23,9 @@ Here is my Portfolio as Data Analyst, please check it out!
 * SQL Window Function
 
 ### Code Example :
-1. [Create a query to get average amount of duration (in minutes)](https://console.cloud.google.com/bigquery?sq=728375418378:2f353bc9b2d2443da123f553dcbebf39)
-2. [Create a query to get total trips and total number of unique bikes grouped by region name](https://console.cloud.google.com/bigquery?sq=728375418378:9410dd528a914c0889df034b7e33a0bd)
-3. [Get latest detail trip in each region](https://console.cloud.google.com/bigquery?sq=728375418378:e97e355ae2a9418b9caee60551b59c7a)
-4. [Create a query to get trip data and add one column to show total cumulative total trips in that region](https://console.cloud.google.com/bigquery?sq=728375418378:a94b4dd6cb334ccbb1e24c9d2b049ee6)
-5. [Find the youngest and oldest age of the members, for each gender. Assume this year is 2021](https://console.cloud.google.com/bigquery?sq=728375418378:1e54d76f6cb64d62b1457281a2c5d1be)
+1. [Create a query to get top 3 user’s first traffic sources that provide the most revenue in the past 3 months](https://console.cloud.google.com/bigquery?project=practical-ring-377011&supportedpurview=project&ws=!1m5!1m4!1m3!1spractical-ring-377011!2sbquxjob_58ccf466_187ebcfc0ed!3sUS)
+2. [Create a query to get categories that generate the most sales price with status shipped on Dec 2022](https://console.cloud.google.com/bigquery?project=practical-ring-377011&supportedpurview=project&ws=!1m16!1m3!8m2!1s829032704250!2s019c268b53624cb29bf21cedf4548f45!1m3!8m2!1s1056090746133!2s0da5ed4d86ad499898598e5a8315bc2c!1m3!8m2!1s1056090746133!2sf70cd70330c04d9ebf77d4a4f4bc43a6!1m3!8m2!1s1056090746133!2s30f6db10f88e45a88b6f3abac9f27b16)
+3. [Get Simple Moving Average](https://console.cloud.google.com/bigquery?project=practical-ring-377011&supportedpurview=project&ws=!1m16!1m3!8m2!1s829032704250!2s019c268b53624cb29bf21cedf4548f45!1m3!8m2!1s1056090746133!2s0da5ed4d86ad499898598e5a8315bc2c!1m3!8m2!1s1056090746133!2sf70cd70330c04d9ebf77d4a4f4bc43a6!1m3!8m2!1s1056090746133!2s30f6db10f88e45a88b6f3abac9f27b16)
 
 
 ## Python Skill sets:
@@ -43,22 +40,22 @@ Here is my Portfolio as Data Analyst, please check it out!
 * Analyzing using visualization
 * Cluster Analysis
 
-### Code example:
-1. [E-commerce Public Dataset](https://github.com/DWply/Dharma-Wangsa-Data-Analytics-Portfolio/blob/5ee419b92ff6df15aa57794deb342f3ab5d08154/Ecommerce_Exploratory_Data_Analysis_Portfolio.ipynb)
-2. [Property List Dataset](https://github.com/DWply/Dharma-Wangsa-Data-Analytics-Portfolio/blob/2810a39d82f417147960cb11ab6e5796f8312b9c/Property_List_Dataset_Portfolio.ipynb)
+### Deck:
+1. [Python Assignment](https://docs.google.com/presentation/d/1chUG9YarQJQWIYyzZfJt495MiRxN1lYl-BYE3RlYdzw/edit?usp=share_link)
+### Code Example:
+2. [Google Collab](https://colab.research.google.com/drive/1tnmmwQfN3sLZ6PUviL6EUbPt3sLxwo6S?usp=share_link)
 
-## Dataviz using Tableau:
+## Dataviz using Tableau & Looker:
 * Connect and combine/ join datasets
 * Data formatting
 * Visualization
 * Calculated field
 * Interactive Dashboard
 
-### Example:
-1. [Order Performance Dashboard in Brazil Region](https://public.tableau.com/app/profile/dharma.wangsa2601/viz/OrderPerformanceDataVisualization-BrazilEcommerce/OrderPerformanceDashboard?publish=yes)
-2. [Order Performance Dashboard in Brazil Region v2](https://public.tableau.com/views/W9W10_KeyAnswer_IntermediateJAN22/InteractiveDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
-3. [Netflix Movies and TV Series Overview Dashboard](https://public.tableau.com/views/TLsim_W9W10_Team5/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
-
+### Example Looker:
+1. [Dashboard Samba Commerce in Brazil Region](https://lookerstudio.google.com/reporting/c802f23e-efba-42fd-b257-d3fa82fdd9a6)
+### Example Tableau:
+2. [Dashboard Samba Commerce in Brazil Region](https://public.tableau.com/app/profile/khairul.fahmi/viz/W10W11_JAN23Khairul_Fahmi_Intermediate/Dashboard1)
 
 ## Project Based Analytics
-1. [Bakery Performance Analysis](https://drive.google.com/file/d/1MKlriq-m8l7C-uEi3HFtuQOpi45r4vsw/view?usp=sharing)
+1. [Video Games Sales and Rating Analysis](https://drive.google.com/file/d/1tVfM7ZoOBa2Yd7B2YbkSsXggrzm7-8a4/view?usp=share_link)
