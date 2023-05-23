@@ -57,5 +57,5 @@ Here is my Data Analyst Portfolio
 ### Example Tableau:
 2. [Dashboard Samba Commerce in Brazil Region](https://public.tableau.com/app/profile/khairul.fahmi/viz/W10W11_JAN23Khairul_Fahmi_Intermediate/Dashboard1)
 
-## Project Based Analytics
+## Grup Project
 1. [Video Games Sales and Rating Analysis](https://drive.google.com/file/d/1tVfM7ZoOBa2Yd7B2YbkSsXggrzm7-8a4/view?usp=share_link)
