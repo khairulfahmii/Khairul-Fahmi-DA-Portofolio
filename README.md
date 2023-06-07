@@ -1,12 +1,47 @@
 # Data Analytics Portfolio by Khairul Fahmi
 
-
+![WhatsApp Image 2023-06-07 at 14 54 52](https://github.com/khairulfahmii/Khairul-Fahmi-DA-Portofolio/assets/132670375/23b0fbde-afd3-459a-a259-ea258d9c4fe8)
 
 Hi! My name is Khairul Fahmi, just called me Fahmi.
 
+### About Me
 I am a highly dedicated professional with a strong commitment to ethics, meticulous attention to detail, and effective teamwork. My areas of expertise include working with spreadsheets, SQL, Python, and data visualization programs like Tableau and Looker Studio. With a solid foundation in data interpretation, I excel at extracting valuable insights and presenting them with precision.
+During my previous job, I conducted research focused on optimizing distribution and production costs through the application of linear programming techniques. Through my work and research, I am driven to contribute to the advancement of knowledge and find innovative solutions to complex problems.
 
-Here is my Data Analyst Portfolio
+### Technical Skill
+* Microsoft Office (Excel, PowerPoint)
+* Data visualization (Tableau and Looker)
+* Programming languages (SQL and Python)
+* Optimization of Cost and Production (QM for Windows)
+
+### Soft Skill
+* Data interpretation
+* Able to work together in a team
+* Attention to details
+
+### Work Experience
+* ### Sessional Lecturer. Sekolah Tinggi Ilmu Ekonomi Bangkinang. 2021-2023
+   • Carry out teaching and learning activities for as many as nine credits in one semester.
+
+   • Carry out research with the theme of optimizing distribution costs using linear programming.
+* ### Chairman Of Food Security Masterplanning Team For Pekanbaru City. CV. Karya Dinamis. 2020-2021
+   • Responsible for collecting, cleaning and inputting data.
+
+   • Perform data analysis using the Analytical Hierarchy Process (AHP).
+
+   • Presentation of project results to related stakeholders (Food Security Office of Pekanbaru City)
+
+### Education
+* ### Full Stack Data Analytics. RevoU. 2023
+  
+  Complete the program with grades 89.86/100
+
+* ### Master of Science. Universitas Gadjah Mada. 2017-2020
+
+  Graduated from the master of Agribusiness Management program with GPA of 3.57/4.00
+
+
+# Here is my Data Analyst Portfolio
 
 ## Spreadsheet/ Excel Skill sets:
 * Data Cleaning;
@@ -70,3 +105,10 @@ Here is my Data Analyst Portfolio
 
 ## Grup Project as Project Manager
 1. [Video Games Sales and Rating Analysis](https://drive.google.com/file/d/1tVfM7ZoOBa2Yd7B2YbkSsXggrzm7-8a4/view?usp=share_link)
+
+## Scientific Publication
+1. [Analisis Minimisasi Biaya Distribusi Beras dengan Menggunakan Linear Programming oleh Perum. Bulog Divisi Riau dan Kepri](https://www.neliti.com/publications/187356/analisis-minimisasi-biaya-distribusi-beras-dengan-menggunakan-linear-programming)
+
+# Contact
+* [Email Me Here](kerol28@gmail.com) 
+* [LinkedIn : Khairul Fahmi](https://www.linkedin.com/in/khairulfahmi28)
