@@ -1,6 +1,6 @@
 # Data Analytics Portfolio by Khairul Fahmi
 
-![WhatsApp Image 2023-06-07 at 14 54 52](https://github.com/khairulfahmii/Khairul-Fahmi-DA-Portofolio/assets/132670375/23b0fbde-afd3-459a-a259-ea258d9c4fe8)
+![rsz_whatsapp_image_2023-06-07_at_145452](https://github.com/khairulfahmii/Khairul-Fahmi-DA-Portofolio/assets/132670375/e9d343d7-36ac-4c49-a08f-f77f3ccec942)
 
 Hi! My name is Khairul Fahmi, just called me Fahmi.
 
