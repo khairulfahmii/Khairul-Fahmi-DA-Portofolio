@@ -110,5 +110,6 @@ During my previous job, I conducted research focused on optimizing distribution 
 1. [Analisis Minimisasi Biaya Distribusi Beras dengan Menggunakan Linear Programming oleh Perum. Bulog Divisi Riau dan Kepri](https://www.neliti.com/publications/187356/analisis-minimisasi-biaya-distribusi-beras-dengan-menggunakan-linear-programming)
 
 # Contact
+## Let's collaborate
 * Email Me Here : kerol28@gmail.com 
 * [LinkedIn : Khairul Fahmi](https://www.linkedin.com/in/khairulfahmi28)
