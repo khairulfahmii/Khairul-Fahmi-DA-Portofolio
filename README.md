@@ -111,5 +111,5 @@ During my previous job, I conducted research focused on optimizing distribution 
 
 # Contact
 ## Let's collaborate
-* Email Me Here : kerol28@gmail.com 
-* [LinkedIn : Khairul Fahmi](https://www.linkedin.com/in/khairulfahmi28)
+* ![rsz_1rsz_1rsz_gmail-logo](https://github.com/khairulfahmii/Khairul-Fahmi-DA-Portofolio/assets/132670375/a8cf4320-a85e-4621-9fd8-4e8d8c0103dc) Email Me Here : kerol28@gmail.com 
+* ![rsz_logo_linkedin](https://github.com/khairulfahmii/Khairul-Fahmi-DA-Portofolio/assets/132670375/af1a6fc3-7916-469a-b97b-079f0b677b34)  [LinkedIn : Khairul Fahmi](https://www.linkedin.com/in/khairulfahmi28)
